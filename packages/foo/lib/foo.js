@@ -3,5 +3,5 @@
 module.exports = foo;
 
 function foo() {
-    console.log('wat');
+    console.log('wat1');
 }
