@@ -3,5 +3,5 @@
 module.exports = foo;
 
 function foo() {
-    // TODO
+    console.log('wat');
 }
