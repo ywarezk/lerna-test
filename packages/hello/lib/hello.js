@@ -3,5 +3,5 @@
 module.exports = hello;
 
 function hello() {
-    console.log('hello world2')
+    console.log('hello new major update');
 }
