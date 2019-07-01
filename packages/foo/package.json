@@ -1,6 +1,6 @@
 {
   "name": "@nz/foo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Yariv Katz <ywarezk@gmail.com>",
   "homepage": "https://github.com/ywarezk/lerna-test#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/ywarezk/lerna-test/issues"
   },
   "dependencies": {
-    "@nz/hello": "^2.0.0",
+    "@nz/hello": "^2.0.1",
     "lodash": "^4.17.11"
   }
 }
