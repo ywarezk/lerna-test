@@ -1,9 +1,9 @@
 {
   "name": "@nz/foo",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Yariv Katz <ywarezk@gmail.com>",
-  "homepage": "",
+  "homepage": "https://github.com/ywarezk/lerna-test#readme",
   "license": "ISC",
   "main": "lib/foo.js",
   "directories": {
@@ -16,7 +16,14 @@
   "publishConfig": {
     "registry": "https://npm.nerdeez.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywarezk/lerna-test.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ywarezk/lerna-test/issues"
   }
 }
